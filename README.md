@@ -8,7 +8,7 @@ Simple optical liquid level dectector scripts in Python.
 
 ### Hardware:
 
-- x1 Raspberry Pi (any model)
+- x1 Raspberry Pi board (any model) - [Raspberry Pi board products](https://www.raspberrypi.org/products/)
 - x1 Optical Liquid Level Sensor like FS-IR02 - [Documentation](https://www.dfrobot.com/wiki/index.php/Liquid_Level_Sensor-FS-IR02_SKU:_SEN0205)
 - x1 Passive Buzzer
 - x1 red LED  (or any color you like)
